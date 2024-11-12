@@ -9,3 +9,11 @@ header {
     font: size 32px;
     color: rgb(42, 122, 228);
 } 
+
+section{
+    background-color: rgb(117, 112, 112);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display:flex;
+    justify-content: center;
+}
