@@ -27,7 +27,7 @@ img{
     display: flex;
     overflow-x: auto;
     padding-right:10px ;
-    gap:10px
+    gap:10px;
 }
 
 h2{
